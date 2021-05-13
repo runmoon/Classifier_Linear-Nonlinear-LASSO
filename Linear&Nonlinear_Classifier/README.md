@@ -1,6 +1,11 @@
-# 
+# Linear & Nonlinear Classifier
 
-注：
+Author: LU Honghao
+
+Email: lu.honghao@outlook.com
+
+Department: College of Information Science and Engineering, Northeastern University (Shenyang, China)
+
 1.
 classifier1_2.py——Training program for linear classifier
 classifier2_2.py——Training program for nonlinear classifier 
